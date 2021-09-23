@@ -1,0 +1,15 @@
+{
+  "expo": {
+   "name": "Market List",
+   "version": "1.0.0",
+   "slug": "blank",
+   "ios": {
+     "bundleIdentifier": "com.market.marketlist",
+     "buildNumber": "1.0.0"
+   },
+   "android": {
+     "package": "com.market.marketlist",
+     "versionCode": 1
+   }
+  }
+}
